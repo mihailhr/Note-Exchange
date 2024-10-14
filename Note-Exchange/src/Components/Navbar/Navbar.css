@@ -1,0 +1,14 @@
+nav ul{
+    display: flex;
+   
+    justify-content: center;
+    list-style: none;
+    gap: 5vw;
+    text-transform: uppercase;
+   
+}
+nav{
+    width: 100vw;
+    padding: 3vh 3vw;
+   
+}
